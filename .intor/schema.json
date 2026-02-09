@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "toolVersion": "0.0.18",
+  "generatedAt": "2026-02-09T03:31:37.245Z",
+  "entries": [
+    {
+      "id": "default",
+      "locales": [
+        "en",
+        "fr"
+      ],
+      "shapes": {
+        "messages": {
+          "kind": "object",
+          "properties": {
+            "hello": {
+              "kind": "primitive",
+              "type": "string"
+            },
+            "rich": {
+              "kind": "primitive",
+              "type": "string"
+            }
+          }
+        },
+        "replacements": {
+          "kind": "object",
+          "properties": {
+            "hello": {
+              "kind": "object",
+              "properties": {
+                "name": {
+                  "kind": "primitive",
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "rich": {
+          "kind": "object",
+          "properties": {
+            "rich": {
+              "kind": "object",
+              "properties": {
+                "tag": {
+                  "kind": "none"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "hello": "Hello, {name}",
+  "rich": "A <tag>text</tag>."
+}
