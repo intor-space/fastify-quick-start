@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "fastify": "^5.7.4",
-    "intor": "^2.4.0"
+    "fastify-plugin": "^5.1.0",
+    "intor": "^2.5.0"
   },
   "devDependencies": {
     "tsx": "^4.21.0",
